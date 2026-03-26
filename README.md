@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhijeet Singh
 
-<!--
-**Abhijeetsingh18/Abhijeetsingh18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | 💻 Java Developer | 🚀 Problem Solver  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 Currently working on Java Projects & DSA
+- 🌱 Learning Advanced Java & System Design
+- 💡 Interested in Backend Development
+- 🎯 Goal: Software Engineer at Product Based Company
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: Java, C, SQL
+- 🌐 Web: HTML, CSS, JavaScript
+- 🛢️ Database: MySQL
+- ⚙️ Tools: Git, GitHub, IntelliJ, VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🏥 Hospital Management System
+- Java + Swing + MySQL
+- Doctor, Patient, Appointment Management
+- Login Authentication System
+- CRUD Operations
+
+🔗 Project Link:
+https://github.com/Abhijeetsingh18/Hospital_Management_System_Project
+
+---
+
+### 💬 Multi Client Chat Application
+- Java Socket Programming
+- Real Time Messaging
+- Multiple Clients Support
+- Command Based Features
+
+---
+
+### 📊 DSA Practice Solutions
+- LeetCode + HackerRank Problems
+- Binary Search
+- Scheduling Algorithms
+- Arrays & Strings
+
+---
+
+## 📈 GitHub Stats
+
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijeetsingh18&show_icons=true)
+
+---
+
+## 🔥 Coding Profiles
+
+- LeetCode: (add link)
+- HackerRank: (add link)
+- CodeChef: (add link)
+
+---
+
+## 📫 Contact Me
+
+📧 Email: your email  
+💼 LinkedIn: your link  
+
+⭐ From [Abhijeetsingh18](https://github.com/Abhijeetsingh18)
+
+
