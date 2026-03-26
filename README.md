@@ -7,48 +7,47 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on Java Projects & DSA
-- 🌱 Learning Advanced Java & System Design
-- 💡 Interested in Backend Development
-- 🎯 Goal: Software Engineer at Product Based Company
+- 🔭 Currently working on Java Projects & DSA  
+- 🌱 Learning Advanced Java & System Design  
+- 💡 Interested in Backend Development  
+- 🎯 Goal: Software Engineer at Product Based Company  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-- 💻 Languages: Java, C, SQL
-- 🌐 Web: HTML, CSS, JavaScript
-- 🛢️ Database: MySQL
-- ⚙️ Tools: Git, GitHub, IntelliJ, VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql,git,github,vscode,idea&perline=5" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
 ### 🏥 Hospital Management System
-- Java + Swing + MySQL
-- Doctor, Patient, Appointment Management
-- Login Authentication System
-- CRUD Operations
+- Java + Swing + MySQL  
+- Doctor, Patient, Appointment Management  
+- Login Authentication System  
+- CRUD Operations  
 
-🔗 Project Link:
-https://github.com/Abhijeetsingh18/Hospital_Management_System_Project
+🔗 Project Link:  
+https://github.com/Abhijeetsingh18/Hospital_Management_System_Project  
 
 ---
 
 ### 💬 Multi Client Chat Application
-- Java Socket Programming
-- Real Time Messaging
-- Multiple Clients Support
-- Command Based Features
+- Java Socket Programming  
+- Real Time Messaging  
+- Multiple Clients Support  
+- Command Based Features  
 
 ---
 
 ### 📊 DSA Practice Solutions
-- LeetCode + HackerRank Problems
-- Binary Search
-- Scheduling Algorithms
-- Arrays & Strings
+- LeetCode + HackerRank Problems  
+- Binary Search  
+- Scheduling Algorithms  
+- Arrays & Strings  
 
 ---
 
@@ -60,9 +59,9 @@ https://github.com/Abhijeetsingh18/Hospital_Management_System_Project
 
 ## 🔥 Coding Profiles
 
-- LeetCode: (add link)
-- HackerRank: (add link)
-- CodeChef: (add link)
+- LeetCode: (add link)  
+- HackerRank: (add link)  
+- CodeChef: (add link)  
 
 ---
 
@@ -72,5 +71,3 @@ https://github.com/Abhijeetsingh18/Hospital_Management_System_Project
 💼 LinkedIn: your link  
 
 ⭐ From [Abhijeetsingh18](https://github.com/Abhijeetsingh18)
-
-
