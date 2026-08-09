@@ -35,6 +35,7 @@ https://github.com/Abhijeetsingh18/Hospital_Management_System_Project
 
 ---
 
+
 ### 💬 Multi Client Chat Application
 - Java Socket Programming  
 - Real Time Messaging  
@@ -59,15 +60,13 @@ https://github.com/Abhijeetsingh18/Hospital_Management_System_Project
 
 ## 🔥 Coding Profiles
 
-- LeetCode: (add link)  
-- HackerRank: (add link)  
-- CodeChef: (add link)  
-
+- LeetCode: (https://leetcode.com/u/abhijeet_singh18_2008/)
+ 
 ---
 
 ## 📫 Contact Me
 
-📧 Email: your email  
-💼 LinkedIn: your link  
+📧 Email:abhijeetsingh0260@gmail.com 
+💼 LinkedIn:https://www.linkedin.com/in/abhijeet-singh26/
 
 ⭐ From [Abhijeetsingh18](https://github.com/Abhijeetsingh18)
